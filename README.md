@@ -1,4 +1,4 @@
-# Developed-a-Professional-website-Using-Generative-AI-tools
+# Stars School Website
 Let's have look
 
 https://stars-bright-portal.lovable.app 
